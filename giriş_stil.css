@@ -1,0 +1,49 @@
+.geri{
+    margin-top: 40px;
+    text-decoration: none;
+    margin-left: 30px;
+}
+.geri a{
+    font-size: 20px;
+    text-decoration: none;
+
+}
+.giriş{
+    margin-top: 200px;
+    text-align: center;
+    display: block;
+}
+.yazi_girişi{
+    margin-top: 20px;
+}
+.yazi1{
+    margin-right: 35px;
+}
+.btn_kayit{
+    border: 2px solid white;
+    color: white;
+    margin-top: 20px;
+    border-radius: 15px;
+    width: 140px;
+    height: 40px;
+    background-color: rgb(255, 80, 0);;
+    border-style: solid;
+    margin-bottom: 200px;
+}
+.alt_tasarim{
+    margin-left: 800px;
+    margin-top: 50px;
+}
+.sosyal_medya{
+    display: flex;
+    align-items: center;
+}
+.sosyal_medya img{
+    margin-left: 40px;
+    width: 25px;
+    height: 25px;
+}
+.alt_yazi{
+    margin-top: 20px;
+    margin-left: 80px;
+}

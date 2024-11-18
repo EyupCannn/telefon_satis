@@ -1,0 +1,176 @@
+.üst_tasarim{
+    display: flex;
+    align-items: center;
+    width: 99vw;
+    height: 3vw;
+}
+.logo a{ text-decoration: none;}
+.logo h1{
+    text-decoration: none;
+    cursor: pointer;
+    color: #000;
+    width: 20vh;
+    height: 4vh;
+}
+.üst_yazi{margin-left: 350px;}
+.üst_yazi a{
+    margin-left: 60px;
+    text-decoration: none;
+    cursor: pointer;
+    color: #000;
+    width: 20vh;
+    height: 4vh;
+}
+.üst_arama{ 
+    background-position: right 10px center;
+    background-image: url(resimler/search.29a806f0.svg);
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    display: flex;
+    margin-left: 500px;
+    padding: 8px;
+    width: 150px;
+    height: 3vh;
+}
+.profil{
+    cursor: pointer;
+    height: 25px; 
+    width: 30px; 
+    padding-left:20px ;
+}
+.sepet{
+    cursor: pointer;
+    height: 25px; 
+    width: 30px; 
+    padding-left:20px ;
+}
+.afiş{
+    background-color: rgb(255, 80, 0);
+    width: 98vw;
+    height: 50px;
+}
+.afiş p{
+    padding-top: 10px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+.toplu1{
+    display: flex;
+    align-items: center;
+}
+.kayan_yer div h1{
+    font-size: 40px;
+    margin-left: 100px;
+    margin-top: 90px;
+    margin-bottom: 24px;
+}
+.kayan_yer div p{
+    margin-left: 100px;
+}
+.kayan_yer button{ 
+    margin-left: 100px;
+    margin-bottom: 20px;
+    background-color: rgb(255, 80, 0);
+    width: 20vw;
+    height: 50px;
+}
+.kayan_yer button a{
+    text-decoration: none;
+    color: white;
+}
+.toplu1 img{margin-left: 500px;}
+.afiş2{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    width: 98vw;
+    height: 50px;
+}
+.afiş2 div{ 
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+}
+.afiş2 img{margin-right: 8px;}
+.yazi1{margin-left: 70px;}
+.popüler_tel{
+    display: flex;
+    align-items: center;
+}
+.popüler_tel div{
+    text-align: center;
+    display: block;
+    margin-left: 50px;
+}
+.popüler_tel button{
+    color: white;
+    background-color: rgb(255, 80, 0);
+    width: 10vw;
+    height: 50px;
+}
+.popüler_tel img{
+    width: 25vh;
+    height: 250px;
+}
+.afiş3{
+    margin-top: 20px;
+    align-items: center;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+}
+.yazi_siyah{ 
+    display: flex;
+    align-items: center;
+    color: black;
+    font-size: 35px;
+}
+.yazi_gölgeli{
+    display: flex;
+    align-items: center;
+    font-size: 35px;
+    color: white; 
+    text-shadow: -1px -1px 0 black,1px -1px 0 black,-1px  1px 0 black,1px  1px 0 black;
+}
+.afiş3 img{margin-right: 8px;}
+.yazi2{margin-left: 70px;}
+.haftanın_tel{
+    display: flex;
+    align-items: center;
+    margin-bottom: 100px;
+}
+.haftanın_tel div{
+    text-align: center;
+    display: block;
+    margin-left: 50px;
+}
+.haftanın_tel button{
+    color: white;
+    background-color: rgb(255, 80, 0);
+    width: 10vw;
+    height: 50px;
+}
+.haftanın_tel img{
+    width: 25vh;
+    height: 250px;
+}
+.alt_tasarim{
+    margin-left: 700px;
+    margin-top: 100px;
+}
+.sosyal_medya{
+    display: flex;
+    align-items: center;
+}
+.sosyal_medya img{
+    margin-left: 40px;
+    width: 25px;
+    height: 25px;
+}
+.alt_yazi{
+    margin-top: 20px;
+    margin-left: 80px;
+}

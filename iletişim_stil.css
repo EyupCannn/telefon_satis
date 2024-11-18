@@ -1,0 +1,117 @@
+.üst_tasarim{
+    display: flex;
+    align-items: center;
+    width: 99vw;
+    height: 3vw;
+}
+.logo a{ text-decoration: none;}
+.logo h1{
+    text-decoration: none;
+    cursor: pointer;
+    color: #000;
+    width: 20vh;
+    height: 4vh;
+}
+.üst_yazi{margin-left: 350px;}
+.üst_yazi a{
+    margin-left: 60px;
+    text-decoration: none;
+    cursor: pointer;
+    color: #000;
+    width: 20vh;
+    height: 4vh;
+}
+.üst_arama{ 
+    background-position: right 10px center;
+    background-image: url(resimler/search.29a806f0.svg);
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    display: flex;
+    margin-left: 500px;
+    padding: 8px;
+    width: 150px;
+    height: 3vh;
+}
+.profil{
+    cursor: pointer;
+    height: 25px; 
+    width: 30px; 
+    padding-left:20px ;
+}
+.sepet{
+    cursor: pointer;
+    height: 25px; 
+    width: 30px; 
+    padding-left:20px ;
+}
+.afiş{
+    background-color: rgb(255, 80, 0);
+    width: 98vw;
+    height: 50px;
+}
+.afiş p{
+    padding-top: 10px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+h1 {
+    margin: 0;
+}
+
+h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+.iletişim {
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 200px;
+}
+
+label {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input, textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+button {
+    padding: 10px;
+    background-color: rgb(255, 80, 0);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+.alt_tasarim{
+    margin-left: 800px;
+    margin-top: 100px;
+}
+.sosyal_medya{
+    display: flex;
+    align-items: center;
+}
+.sosyal_medya img{
+    margin-left: 40px;
+    width: 25px;
+    height: 25px;
+}
+.alt_yazi{
+    margin-top: 20px;
+    margin-left: 80px;
+}

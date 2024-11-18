@@ -1,0 +1,58 @@
+.afiş{
+    background-color: rgb(255, 80, 0);
+    width: 98vw;
+    height: 50px;
+}
+.afiş p{
+    padding-top: 10px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+.afiş2{
+    display: flex;
+    align-items: center;
+}
+.afiş2 a{
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 150px;
+}
+.afiş2 h2{margin-left: 800px;}
+.orta_tasarim{
+    
+    font-size: 20px;
+    display: block;
+    align-items: center;
+    text-align: center;
+}
+.orta_tasarim button{
+    border: 2px solid white;
+    border-radius: 15px;
+    width: 140px;
+    height: 40px;
+    background-color: rgb(255, 80, 0);;
+    border-style: solid;
+    margin-bottom: 400px;
+}
+.orta_tasarim button a{
+    color: white;
+    text-decoration: none;
+}
+.alt_tasarim{
+    margin-left: 800px;
+    margin-top: 100px;
+}
+.sosyal_medya{
+    display: flex;
+    align-items: center;
+}
+.sosyal_medya img{
+    margin-left: 40px;
+    width: 25px;
+    height: 25px;
+}
+.alt_yazi{
+    margin-top: 20px;
+    margin-left: 80px;
+}
